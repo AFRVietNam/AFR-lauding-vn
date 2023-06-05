@@ -132,7 +132,7 @@ export function Block2() {
                       <span style={{ color: "#4262ef" }}>năng suất</span>
                     </div> */}
                     <div className={css.des}>
-                      <div>Quản lý quy trình phê duyệt online</div>
+                      <div>Quản lý quy trình phê duyệt trực tuyến</div>
                       {/* <div>Tự động tổng hợp báo cáo thuế, BCTC chính xác, </div> */}
                     </div>
                   </div>
