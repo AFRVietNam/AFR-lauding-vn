@@ -1,0 +1,113 @@
+.reason{
+    background: url('https://amis.misa.vn/sites/amis/images/pages/amis-accounting/bg_reason.svg') no-repeat center;
+    background-size: contain;
+
+    padding: 80px 0 30px;
+   .buttonTry{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 30px;
+    a{
+    
+        width: 80%;
+    max-width: 210px;
+    display: block;
+    color: #fff;
+    border-radius: 25px;
+    font-weight: bold;
+    background-size: 17px;
+    font-size: 16px;
+    margin-bottom: 10px;
+
+
+    }
+    a:hover{
+        opacity: .8;
+    }
+    
+}
+.BtnBlue{
+   margin-left: auto;
+   
+    text-align: center;
+    padding: 10px 22px 10px 22px;
+
+
+    background: #4262ef;
+    background-position: right 18px top 19px;
+}
+.BtnOr{
+    margin-right: auto;
+
+
+    text-align: center;
+    padding: 10px 22px 10px 22px;
+
+
+    background-color: #f68645;
+
+
+}
+
+    .titleh2{
+        color: black;
+         font-family: GoogleSans Bold,Arial,sans-serif !important;
+        padding: 0 15px;
+        text-align: center;
+        font-size: 28px;
+    }
+    .reasonWrap{
+        margin: 0 !important;
+        padding-top: 30px;
+        line-height: 1.42857143;
+        font-size: 16px;
+    }
+  
+    .imgResponsive{
+        display: block;
+        max-width: 100%;
+        height: auto;
+
+    }
+    .reasonItemContent{
+        width: -webkit-calc(100% - 40px);
+         padding-left: 15px;
+         font-family: GoogleSans Bold,Arial,sans-serif;
+         .Iitle{
+            font-size: 20px;
+            font-weight: 600;
+            padding-bottom: 8px;
+            padding-top: 6px;
+         }
+         .des{
+            line-height: 1.42857143;
+            font-size: 17px;
+         }
+    }
+}
+.colMg{
+    margin-bottom: 30px !important;
+}
+.ColItem{
+    text-align: center;
+    padding: 30px;
+}
+.reasonItem{
+    border-radius: 8px;
+box-shadow: 10px 10px 23px rgb(66 98 239/18%);
+padding: 20px;
+display: flex;
+background: #fff;
+height: 100%;
+align-items: center;
+.reasonItemImg{
+    width: 40px;
+}
+}
+@media only screen and (max-width: 768px){
+    .BtnBlue,
+    .BtnOr{
+        margin: auto;
+    }
+}

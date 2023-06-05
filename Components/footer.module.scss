@@ -1,0 +1,63 @@
+.Colcust{
+
+}
+.bgi{
+    color: black;
+}
+.gridLR{
+    // margin: 0 !important;
+    // align-items: center;
+    margin-left: 0!important;
+    margin-right: 0 !important;
+    margin: 20px 0;
+    width: 100%;
+    justify-content: space-between;
+
+}
+.Rowcuts{
+    margin: 0;
+    padding:  40px 20px;
+}
+.FlexItem{
+    display: flex;
+    align-items: center;
+}
+.imageLogo{
+    max-width: 300px;
+ 
+    width: auto;
+}
+.content{
+    &.Rit{
+        // padding: 20px;
+
+    }
+    p{
+        margin: 5px 0;
+        font-size: 17px;
+    }
+}
+.IconF{
+    height: 30px; 
+    margin-right: 5px;
+    width: auto;
+}
+.IconS{
+    height: 50px;
+    width: auto;
+   
+}
+.LinkMEdia{
+    &:hover{
+        opacity: .7;
+    }
+     & + .LinkMEdia{
+margin-left: 20px;
+}
+}
+@media only screen and (max-width: 576px){
+    .imageLogo{
+        width: 100% !important;
+        padding: 0;
+    }
+}
