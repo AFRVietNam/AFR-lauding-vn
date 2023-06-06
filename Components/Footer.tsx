@@ -95,8 +95,7 @@ export function Footer() {
                       className={css.IconF}
                     ></Image>
                     <p>
-                      37 Huynh Tinh Cua Street, Ward 8, District 3, Ho Chi Minh
-                      City, Vietnam
+                      37 Huỳnh Tịnh Của, phường 8, quận 3, thành phố Hồ Chí Minh
                     </p>
                   </div>
                 </div>
