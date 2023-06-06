@@ -37,6 +37,7 @@ import v11 from "./vantai/logo_7.png";
 import v12 from "./vantai/logo_6.png";
 import v13 from "./vantai/logo2.png";
 
+import gps from "./GPS.png";
 
 import l1 from "./banle/39.png";
 import l2 from "./banle/40.png";
@@ -96,5 +97,5 @@ export{ banner, Icon,B3 ,i1,i2,i3,i4,i5,i6,B1L ,
     dt1,dt2,dt3,dt4,dt5,dt6,dt7,dt8,dt9,
     logo,
     f1,f2,f3,f4,f5,
-    logoDk
+    logoDk,gps
 }
