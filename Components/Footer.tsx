@@ -28,11 +28,11 @@ export function Footer() {
 
                   <div className={css.FlexItem}>
                     <Image src={f4} alt="lien he" className={css.IconF}></Image>
-                    <p>+81-90-6625-2376</p>
+                    <p>+81-90-6625-2376 (Mr. Takashi)</p>
                   </div>
                   <div className={css.FlexItem}>
                     <Image src={f5} alt="mail" className={css.IconF}></Image>
-                    <p>akira.takahashi@afr-solution.com(Mr. Takashi)</p>
+                    <p>akira.takahashi@afr-solution.com</p>
                   </div>
                   <div className={css.FlexItem}>
                     <Image
@@ -55,11 +55,11 @@ export function Footer() {
 
                   <div className={css.FlexItem}>
                     <Image src={f4} alt="lien he" className={css.IconF}></Image>
-                    <p>+82-10-4001-5357</p>
+                    <p>+82-10-4001-5357 (Mr. Kwon)</p>
                   </div>
                   <div className={css.FlexItem}>
                     <Image src={f5} alt="mail" className={css.IconF}></Image>
-                    <p> kwon@afr-solution.com(Mr. Kwon)</p>
+                    <p> kwon@afr-solution.com</p>
                   </div>
                   <div className={css.FlexItem}>
                     <Image
@@ -69,7 +69,7 @@ export function Footer() {
                     ></Image>
                     <p>
                       8 1509ho Teheranro 64gil Kangnamgu Seoulsi, Republic of
-                      Korea.
+                      Korea
                     </p>
                   </div>
                 </div>
@@ -82,11 +82,11 @@ export function Footer() {
 
                   <div className={css.FlexItem}>
                     <Image src={f4} alt="lien he" className={css.IconF}></Image>
-                    <p> +84-97-540-4208</p>
+                    <p> +84-97-540-4208 (Mr. Tâm)</p>
                   </div>
                   <div className={css.FlexItem}>
                     <Image src={f5} alt="mail" className={css.IconF}></Image>
-                    <p>tam@afr-solution.com(Mr. Tâm)</p>
+                    <p>tam@afr-solution.com</p>
                   </div>
                   <div className={css.FlexItem}>
                     <Image
@@ -111,11 +111,11 @@ export function Footer() {
 
                   <div className={css.FlexItem}>
                     <Image src={f4} alt="lien he" className={css.IconF}></Image>
-                    <p>+855 (0) 16-846-059</p>
+                    <p>+855 (0) 16-846-059 (Mr. Tâm)</p>
                   </div>
                   <div className={css.FlexItem}>
                     <Image src={f5} alt="mail" className={css.IconF}></Image>
-                    <p>tam@afr-solution.com(Mr. Tâm)</p>
+                    <p>tam@afr-solution.com</p>
                   </div>
                   <div className={css.FlexItem}>
                     <Image
