@@ -1,11 +1,8 @@
 import cssB2 from "./block2.module.scss";
 import cssB1 from "./block1.module.scss";
-import cssB3 from "./block3.module.scss";
-import { Col, Form, Row } from "antd";
+import { Col,Row } from "antd";
 import Image from "next/image";
 import {
-  B3,
-  banner,
   dt1,
   dt2,
   dt3,

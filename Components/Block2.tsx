@@ -4,8 +4,10 @@ import { Col, Row } from "antd";
 import Image from "next/image";
 import { i1, i2, i3, i4, i5, i6 } from "../public/staticImage/index";
 export function Block2() {
+  
   return (
     <>
+    
       <div
         className={css.reason}
         style={{ color: "black", backgroundColor: "white" }}
