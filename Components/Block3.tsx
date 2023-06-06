@@ -55,7 +55,7 @@ export function Block3() {
                     trong thời gian ngắn.
                     <br />
                     Từ thay đổi các quy trình, thêm các mô-đun quản lý, hay xây
-                    dựng ứng dụng mới… tất cả đều có thể thực hiện chỉ với một
+                    dựng ứng dụng mới… Tất cả đều có thể thực hiện chỉ với một
                     cú nhấp chuột.
                   </div>
                   <div className={css.SlBtn}>
