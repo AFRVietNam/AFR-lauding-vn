@@ -33,7 +33,7 @@ export function Block1() {
                   duy nhất
                 </h1>
                 <div className={css.decription}>
-                  Được xây dựng trên nền tảng Salesforce <br />
+                  Được xây dựng trên nền tảng Salesforce, <br />
                   LogisForce với phân hệ đa dạng và tích hợp nhiều nền tảng,{" "}
                   <br />
                   giúp nâng cao hiệu quả{" "}
