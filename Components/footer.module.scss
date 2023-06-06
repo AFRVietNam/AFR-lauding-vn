@@ -1,5 +1,26 @@
 .Colcust{
-
+    font-family: GoogleSans Bold,Arial,sans-serif !important;
+    // max-width: 350px;
+    div{
+        margin: 10px 0;
+    }
+}
+.Clogo{
+  
+}
+.noWrap{
+    text-wrap: nowrap;
+}
+.media{
+    // width: 100%;
+display: inline-block;
+    text-align: center;
+}
+.BlockCt{
+    
+    display: flex;
+    justify-content: center;
+    // align-items: center;
 }
 .bgi{
     color: black;
@@ -28,13 +49,11 @@
     width: auto;
 }
 .content{
-    &.Rit{
-        // padding: 20px;
-
-    }
+    max-width: 350px;
+    margin: auto;
     p{
-        margin: 5px 0;
-        font-size: 17px;
+        margin:  0;
+        font-size: 14px;
     }
 }
 .IconF{
@@ -48,16 +67,34 @@
    
 }
 .LinkMEdia{
+    width: 100%;
+    text-align: right;
+    margin-right: 10px;
     &:hover{
         opacity: .7;
     }
      & + .LinkMEdia{
-margin-left: 20px;
+margin-left: 5px;
 }
+}
+.media{
+    width: 100%;
+}
+@media only screen and (max-width: 768px){
+    .content{
+        max-width: 500px;
+        margin: auto !important;
+        
+    }
+    .Clogo{
+        text-align: center;
+    }
+
 }
 @media only screen and (max-width: 576px){
     .imageLogo{
         width: 100% !important;
         padding: 0;
     }
+   
 }
